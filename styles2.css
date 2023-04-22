@@ -1,0 +1,23 @@
+body {
+
+    background-color: #EAF6F6;
+}
+
+hr{
+
+    border-style: none;
+    border-top-style: dotted;  /*format of hr*/ 
+    border-color: grey; /*colour of dots or border*/
+    border-width: 5px; /*size of border or dots */
+    width: 5%; 
+}
+
+h1 {
+
+    color: #66BFBF;
+}
+
+h3 {
+
+    color: #66BFBF;
+}
